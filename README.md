@@ -1,7 +1,7 @@
 # Tor Browser
 Tor Browser — tor browser download tor browser windows tor browser latest version tor onion browser anonymous browsing privacy vpn dark web access setup guide tutorial 2026
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cb6d8a48-9553-445a-b14d-f13c751dd534" />
+<img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/cb6d8a48-9553-445a-b14d-f13c751dd534" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/tor-browser-download/tor-browser?style=flat-square&color=00d4aa)](https://github.com/tor-browser-download/tor-browser/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/tor-browser-download/tor-browser?style=flat-square&color=0099cc)](https://github.com/tor-browser-download/tor-browser/network)
